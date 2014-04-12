@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "org.codeformiami.app"
+    version   = "2.0.2">
+
+<name>Code for Miami</name>
+
+<description>
+We code.
+</description>
+
+<author href="https://codeformiami.org" email="c4m@lucaspozzi.com">
+Code for Miami
+</author>
+
+<icon src="icon.png" />
+
+</widget>
